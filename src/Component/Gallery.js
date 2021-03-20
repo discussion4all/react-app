@@ -49,8 +49,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+         <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
       <div className="box-1">
          <div className="com-img">
@@ -67,27 +67,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label">
-                  Free
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -105,8 +86,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -124,8 +105,27 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label">
+                  Free
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
 
       <div className="box-1">
@@ -143,8 +143,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
       <div className="box-1">
          <div className="com-img">
@@ -161,27 +161,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -199,8 +180,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -218,8 +199,27 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
 
       <div className="box-1">
@@ -237,8 +237,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
       <div className="box-1">
          <div className="com-img">
@@ -255,8 +255,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -274,8 +274,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -293,8 +293,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -312,293 +312,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-
-      
-   </div>
-   <div className="good-box">
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label">
-                  Free
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label">
-                  Free
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label">
-                  Free
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label">
-                  Free
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label">
-                  Free
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
 
       
@@ -619,8 +334,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
       <div className="box-1">
          <div className="com-img">
@@ -637,27 +352,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label">
-                  Free
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -675,8 +371,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -694,8 +390,27 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label">
+                  Free
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
 
       <div className="box-1">
@@ -713,8 +428,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
       <div className="box-1">
          <div className="com-img">
@@ -731,27 +446,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -769,8 +465,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -788,8 +484,27 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
 
       <div className="box-1">
@@ -807,8 +522,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
       <div className="box-1">
          <div className="com-img">
@@ -825,27 +540,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
-      </div>
-    
-      <div className="box-1">
-         <div className="com-img">
-            <div className="img-fbox">
-               <img src={slider_4} />
-            </div>
-            <div className="label-box">
-               <div className="label lable-3">
-               Expired
-               </div>
-            </div>
-            <div className="date-bar">
-                  <span>Nov 28, 2020</span>|
-                  <span>11:00 – 12:30</span>
-               </div>
-         </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -863,8 +559,8 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
     
       <div className="box-1">
@@ -882,8 +578,312 @@ return (
                   <span>11:00 – 12:30</span>
                </div>
          </div>
-         <h4>2021 British University</h4>
-         <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+
+      
+   </div>
+   <div className="good-box">
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label">
+                  Free
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label">
+                  Free
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label">
+                  Free
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label">
+                  Free
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label">
+                  Free
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
+      </div>
+    
+      <div className="box-1">
+         <div className="com-img">
+            <div className="img-fbox">
+               <img src={slider_4} />
+            </div>
+            <div className="label-box">
+               <div className="label lable-3">
+               Expired
+               </div>
+            </div>
+            <div className="date-bar">
+                  <span>Nov 28, 2020</span>|
+                  <span>11:00 – 12:30</span>
+               </div>
+         </div>
+         <h4>2021英國大學</h4>
+           <p>Social Sciences<br/>社會科學系申請攻略</p>
       </div>
 
       

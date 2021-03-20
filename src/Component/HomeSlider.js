@@ -85,8 +85,8 @@ return (
                </div>
               
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/>recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+            <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
          <div className="slider-mbox mbox-1">
@@ -100,8 +100,8 @@ return (
                   </div>
                </div>
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/> recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+             <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
       </div>
@@ -117,8 +117,8 @@ return (
                   </div>
                </div>
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/> recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+             <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
       </div>
@@ -137,8 +137,8 @@ return (
                   </div>
                </div>
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+            <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
          <div className="slider-mbox mbox-3">
@@ -152,8 +152,8 @@ return (
                   </div>
                </div>
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/>  recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+            <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
       </div>
@@ -169,8 +169,8 @@ return (
                   </div>
                </div>
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/> recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+             <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
       </div>
@@ -186,8 +186,8 @@ return (
                   </div>
                </div>
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/> recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+             <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
          <div className="slider-mbox mbox-5">
@@ -201,8 +201,8 @@ return (
                   </div>
                </div>
             </div>
-            <h4>2021 British University</h4>
-            <p>Strategy book and personal <br/> recommendation letter writing skills</p>
+            <h4>2021英國大學</h4>
+             <p>Engineering & Computer Science <br/>工程學系及電腦科學系申請攻略</p>
             <h5>11:00 – 12:30</h5>
          </div>
       </div>
@@ -215,8 +215,8 @@ return (
 </div>
 }
    <div className="home-slider-btn">
-   <button className={sliderStyle === 'auto' ? 'active-btn' : ''} onClick={() => setSliderStyle('auto')}>Up to date</button>
-   <button className={sliderStyle === 'manual' ? 'active-btn' : ''} onClick={() => setSliderStyle('manual')}>Course</button>
+   <button className={sliderStyle === 'auto' ? 'active-btn' : ''} onClick={() => setSliderStyle('auto')}>最新</button>
+   <button className={sliderStyle === 'manual' ? 'active-btn' : ''} onClick={() => setSliderStyle('manual')}>講座</button>
 </div>
 
 </div>

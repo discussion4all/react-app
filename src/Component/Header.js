@@ -29,30 +29,30 @@ return(
    <div className={'box-menu' + (sidebarOpen ? ' block' : '')}>
                <div className="drop-menu">
                   <ul>
-                     <li><a href="#">Homepage</a></li>
-                     <li><a href="#">Success Case</a></li>
-                     <li><a href="#">Expert sharing</a></li>
-                     <li><a href="#">Frequently Asked Questions</a></li>
-                     <li><a href="#">Professional Team</a></li>
+                     <li><a href="#">主頁</a></li>
+                     <li><a href="#">成功案例</a></li>
+                     <li><a href="#">專家分享</a></li>
+                     <li><a href="#">常見疑問</a></li>
+                     <li><a href="#">專業團隊</a></li>
                   </ul>
                </div>
               
                <div className="address-text">
-                  <h4>Central Head Office</h4>
-                  <p>Central Station Exit C</p>
-                  <p>88-98 Des Voeux Road Central, Central
-                     Whole Floor, 11th Floor, 88 Central
+                  <h4>中環總辦事處</h4>
+                  <p>中環站C出口</p>
+                  <p>中環德輔道中88–98號
+中環88 11樓全層
                   </p>
                </div>
                <div className="address-text">
-                  <h4> Central Test Center</h4>
-                  <p>Central Station Exit B</p>
-                  <p>113-125A Des Voeux Road Central, Central
-                      Room 05, 17th Floor, Far East Development Building
+                  <h4>中環考試中心</h4>
+                  <p>中環站B出口</p>
+                  <p>中環德輔道中113–125A號
+遠東發展大廈17樓05室
                   </p>
                </div>
              <div className='button-btn'>
-               <button>Subscribe to the latest news</button>
+               <button>訂閲最新資訊 </button>
              </div>
             </div>
 </div>
